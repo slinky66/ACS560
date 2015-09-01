@@ -1,1 +1,2 @@
 # ACS560
+This course surveys the engineering aspects of software system design. It concentrates on such matters as formal specification and acceptance requirements, testing and quality management techniques, and the use of CASE tools as an aid to development. Depending on time available, it may include an introduction to database design, performance analysis, and project management tools. The course forms part of the required core for the ACS master’s degree.
